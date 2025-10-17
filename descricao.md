@@ -9,9 +9,7 @@
 
 ### Demonstração em vídeo
 
-<p align="center">
-  <video width="400" controls>
-    <source src="./assets/VideoArduinoLed.mp4" type="video/mp4">
-  </video><br>
-  <em>Execução do código Blink no Arduino, com o LED acendendo e apagando em intervalos regulares.</em>
-</p>
+Execução do código Blink no Arduino, com o LED acendendo e apagando em pequenos intervalos.
+
+*Link de acesso ao vídeo:* https://drive.google.com/file/d/154xkyUfTIcvccwFS9V7RpF_FqOnvzXLs/view?usp=sharing
+
